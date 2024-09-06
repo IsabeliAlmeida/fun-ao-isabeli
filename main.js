@@ -6,7 +6,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
         {
-            
+           
                 enunciado: "Você chega em uma mansão, onde deve resolver um desaparecimento da herdeira Emily. Chegando no local você observa os moradores da casa, o tio de Emily e a governanta, que são invasivos e parecem esconder algo?",
                 alternativas: [
                     {
@@ -19,7 +19,7 @@ const perguntas = [
                     }
                 ]
             },
-    
+   
     {
         enunciado: "Enquanto explorava mansão, você encontra uma sala secreta atrás de uma biblioteca falsa dentro, há documentos e fotos antigas.",
         alternativas: [
